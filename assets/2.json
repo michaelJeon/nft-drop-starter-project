@@ -1,0 +1,19 @@
+{
+    "name": "Tree_02",
+    "symbol": "",
+    "image": "2.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "2.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "BvUXB2yFCTEttXnNinWF521SU3aKQDt4rbY2mSRdkj7Z",
+          "share": 100
+        }
+      ]
+    }
+  }

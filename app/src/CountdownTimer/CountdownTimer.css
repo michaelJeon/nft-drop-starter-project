@@ -1,6 +1,7 @@
 .timer-container .timer-header {
   font-size: 20px;
   font-weight: bold;
+  color: bisque;
 }
 
 .timer-container .timer-value {
